@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>MIT</a>.
+subtitle: <a href='https://web.mit.edu/'>MIT</a>.
 
 profile:
   align: right
