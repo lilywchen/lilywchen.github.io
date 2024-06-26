@@ -18,4 +18,4 @@ I am a Math and EECS student at MIT. I am fortunate to be advised by [Jessy Li](
 
 I am broadly interested in machine learning and natural language processing. I have recently worked on research problems in factuality, retrieval augmented generation, information synthesis, and applications to the medical domain.
 
-In my free time, I enjoy tea 🍵, long walks, following the NBA, and photographing French Bulldogs 🐶.
+In my free time, I enjoy tea 🍵, long walks, following the NBA, and photographing French Bulldogs 📸🐶.
