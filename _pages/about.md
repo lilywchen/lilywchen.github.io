@@ -14,7 +14,7 @@ profile:
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Math and EECS and MEng student at MIT. I am fortunate to be advised by [Paul Liang](https://pliang279.github.io/), [Jessy Li](https://jessyli.com/), and [Byron Wallace](https://www.byronwallace.com/).
+I am a Math and EECS and MEng student at MIT. I am fortunate to be advised by [Paul Liang (MIT)](https://pliang279.github.io/), [Jessy Li (UT Austin)](https://jessyli.com/), and [Byron Wallace (Northeastern)](https://www.byronwallace.com/).
 
 I am broadly interested in machine learning, multimodal learning, natural language processing, and information retrieval. I have recently worked on research problems in factuality, retrieval augmented generation, information synthesis, and applications in health.
 
