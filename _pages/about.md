@@ -20,6 +20,6 @@ I am broadly interested in machine learning, multimodal learning, natural langua
 * Multimodal synthesis and content creation
 * Understanding non-verbal communication and emotions from gestures
 * Grounding LLMs in the physical world with sensors
-* Retrieval of and multi document synthesis of medical evidence for medical claim checking
+* Multi-document retrieval, synthesis, and reasoning of medical evidence for medical claim checking
 
 In my free time, I enjoy tea 🍵, long walks, following the NBA, and photographing French Bulldogs 📸🐶.
