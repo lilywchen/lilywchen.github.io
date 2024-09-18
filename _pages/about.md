@@ -22,4 +22,4 @@ I am broadly interested in machine learning, multimodal learning, natural langua
 * Grounding LLMs in the physical world with sensors
 * Multi-document retrieval, synthesis, and reasoning of medical evidence for checking the factuality of medical claims made on social media
 
-In my free time, I enjoy tea 🍵, long walks, following the NBA, and photographing French Bulldogs 📸🐶.
+In my free time, I enjoy coffee and tea ☕🍵, long walks, following the NBA, and photographing French Bulldogs 📸🐶.
