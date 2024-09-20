@@ -19,7 +19,6 @@ I am a Math and EECS and MEng student at MIT. I am fortunate to be advised by [P
 I am broadly interested in machine learning, multimodal learning, natural language processing, information retrieval, and applications to healthcare. Research problems I have recently been working on:
 * Multimodal synthesis and content creation
 * Understanding non-verbal communication and emotions from gestures
-* Grounding LLMs in the physical world with sensors
 * Multi-document retrieval, synthesis, and reasoning of medical evidence for checking the factuality of medical claims made on social media
 
 In my free time, I enjoy coffee and tea ☕🍵, long walks, following the NBA, and photographing French Bulldogs 📸🐶.
