@@ -14,9 +14,9 @@ profile:
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Math and EECS and MEng student at MIT. I am fortunate to be advised by [Jessy Li (UT Austin)](https://jessyli.com/), [Byron Wallace (Northeastern)](https://www.byronwallace.com/), and [Paul Liang (MIT)](https://pliang279.github.io/).
+I am a Math and EECS and MEng student at MIT. I am fortunate to be advised by [Paul Liang (MIT)](https://pliang279.github.io/), [Jessy Li (UT Austin)](https://jessyli.com/), and [Byron Wallace (Northeastern)](https://www.byronwallace.com/).
 
-I am broadly interested in machine learning, multimodal learning, natural language processing, information retrieval, and applications to healthcare. I have recently been working on:
+I am broadly interested in artificial intelligence for science, multisensory intelligence, human-AI systems, factuality in AI, and information retrieval. I have recently been working on:
 * Multi-document retrieval, synthesis, and reasoning of medical evidence for checking the factuality of medical claims made on social media
 * Grounding LLMs in the physical world with sensor data
 
