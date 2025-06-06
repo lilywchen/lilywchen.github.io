@@ -20,6 +20,4 @@ I am broadly interested in artificial intelligence for science, multisensory int
 * Multi-document retrieval, synthesis, and reasoning of medical evidence for checking the factuality of medical claims made on social media
 * Grounding LLMs in the physical world with sensor data
 
-**I am applying to PhD programs this cycle.**
-
 In my free time, I enjoy coffee and tea ☕🍵, long walks, following the NBA, and photographing French Bulldogs 📸🐶.
