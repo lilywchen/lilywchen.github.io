@@ -16,8 +16,6 @@ social: true # includes social icons at the bottom of the page
 
 I recently graduated from MIT. I am fortunate to be advised by [Paul Liang (MIT)](https://pliang279.github.io/), [Jessy Li (UT Austin)](https://jessyli.com/), and [Byron Wallace (Northeastern)](https://www.byronwallace.com/).
 
-I am broadly interested in human-centered AI, multimodal AI, and AI for health. I also enjoy exploring signal processing and statistics. I have recently been working on:
-* Multi-document retrieval, synthesis, and reasoning of medical evidence for checking the factuality of medical claims made on social media
-* Grounding LLMs in the physical world with sensor data
+I am broadly interested in human-centered AI, multimodal AI, and AI for health. I also enjoy exploring signal processing and statistics. I have recently been working on grounding LLMs in the physical world with sensor data.
 
 In my free time, I enjoy coffee and tea ☕🍵, long walks, following the NBA, and photographing French Bulldogs 📸🐶.
