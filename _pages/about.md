@@ -16,6 +16,4 @@ social: true # includes social icons at the bottom of the page
 
 I recently graduated from MIT. I am fortunate to be advised by [Paul Liang (MIT)](https://pliang279.github.io/), [Jessy Li (UT Austin)](https://jessyli.com/), and [Byron Wallace (Northeastern)](https://www.byronwallace.com/).
 
-I am broadly interested in multimodal AI.
-
 In my free time, I enjoy coffee and tea ☕🍵, long walks, following the NBA, and photographing French Bulldogs 📸🐶.
